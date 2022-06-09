@@ -7,7 +7,6 @@ def main():
     df=pd.read_csv("database/routing_requests_without_time.csv")
     rows = []
     for j in range(10):
-        print(f'{j=}')
         for i in range(30):
             src = df.iloc[j][f'source_{i}']
             dst = df.iloc[j][f'destination_{i}']
