@@ -1,0 +1,422 @@
+Pre-processing time = 2.74267 seconds.
+4(49->18446744073709551615), 28(53->18446744073709551615), 11(1073741823->18446744073709551615), 15(61->18446744073709551615), 24(47->18446744073709551615), 35(51->18446744073709551615), 17(45->18446744073709551615), 36(49->18446744073709551615), 26(1073741823->18446744073709551615), 50(1073741823->18446744073709551615), 33(51->18446744073709551615), 39(49->18446744073709551615), 19(75->18446744073709551615), 2(43->18446744073709551615), 47(1073741823->18446744073709551615), 49(1073741823->18446744073709551615), 25(49->18446744073709551615), 18(41->18446744073709551615), 32(45->18446744073709551615), 40(53->18446744073709551615), 5(49->18446744073709551615), 21(47->18446744073709551615), 7(53->18446744073709551615), 12(69->18446744073709551615), 14(55->18446744073709551615), 42(1073741823->18446744073709551615), 27(1073741823->18446744073709551615), 6(57->18446744073709551615), 45(49->18446744073709551615), 44(49->18446744073709551615), 30(63->18446744073709551615), 38(59->18446744073709551615), 13(61->18446744073709551615), 37(59->18446744073709551615), 3(49->18446744073709551615), 16(49->18446744073709551615), 29(61->18446744073709551615), 43(45->18446744073709551615), 9(1073741823->18446744073709551615), 22(47->18446744073709551615), 8(1073741823->18446744073709551615), 23(51->18446744073709551615), 20(51->18446744073709551615), 34(1073741823->18446744073709551615), 1(1073741823->18446744073709551615), 10(1073741823->18446744073709551615), 31(49->18446744073709551615), 0(55->18446744073709551615), 46(51->18446744073709551615), 41(43->18446744073709551615), 48(57->18446744073709551615), 
+Remaining agents = 51, remaining time = 99.9999 seconds. 
+Agent 4
+Remaining agents = 50, remaining time = 99.9998 seconds. 
+Agent 28
+After agent 18: Remaining agents = 49, colliding pairs = 0, LL nodes = 42, remaining time = 99.6931 seconds. 
+After agent 9: Remaining agents = 48, colliding pairs = 0, LL nodes = 140, remaining time = 99.6927 seconds. 
+After agent 26: Remaining agents = 47, colliding pairs = 0, LL nodes = 1, remaining time = 99.6927 seconds. 
+After agent 28: Remaining agents = 46, colliding pairs = 0, LL nodes = 1672, remaining time = 99.3174 seconds. 
+After agent 48: Remaining agents = 45, colliding pairs = 0, LL nodes = 62, remaining time = 99.317 seconds. 
+After agent 21: Remaining agents = 44, colliding pairs = 0, LL nodes = 48, remaining time = 99.3169 seconds. 
+After agent 22: Remaining agents = 43, colliding pairs = 1, LL nodes = 1446, remaining time = 99.3141 seconds. 
+After agent 10: Remaining agents = 42, colliding pairs = 1, LL nodes = 50, remaining time = 99.3139 seconds. 
+After agent 0: Remaining agents = 41, colliding pairs = 1, LL nodes = 56, remaining time = 99.3137 seconds. 
+After agent 24: Remaining agents = 40, colliding pairs = 1, LL nodes = 48, remaining time = 98.9695 seconds. 
+After agent 34: Remaining agents = 39, colliding pairs = 2, LL nodes = 55, remaining time = 98.9693 seconds. 
+After agent 15: Remaining agents = 38, colliding pairs = 3, LL nodes = 1551, remaining time = 98.8274 seconds. 
+After agent 45: Remaining agents = 37, colliding pairs = 3, LL nodes = 176, remaining time = 98.8269 seconds. 
+After agent 46: Remaining agents = 36, colliding pairs = 4, LL nodes = 1916, remaining time = 98.1686 seconds. 
+After agent 17: Remaining agents = 35, colliding pairs = 5, LL nodes = 1868, remaining time = 97.5169 seconds. 
+After agent 13: Remaining agents = 34, colliding pairs = 6, LL nodes = 1657, remaining time = 97.1487 seconds. 
+After agent 44: Remaining agents = 33, colliding pairs = 7, LL nodes = 96, remaining time = 97.1483 seconds. 
+After agent 2: Remaining agents = 32, colliding pairs = 8, LL nodes = 1669, remaining time = 96.7683 seconds. 
+After agent 7: Remaining agents = 31, colliding pairs = 10, LL nodes = 39224, remaining time = 89.2345 seconds. 
+After agent 11: Remaining agents = 30, colliding pairs = 11, LL nodes = 47, remaining time = 89.2342 seconds. 
+After agent 25: Remaining agents = 29, colliding pairs = 11, LL nodes = 3059, remaining time = 88.2397 seconds. 
+After agent 3: Remaining agents = 28, colliding pairs = 12, LL nodes = 1708, remaining time = 87.5506 seconds. 
+After agent 31: Remaining agents = 27, colliding pairs = 12, LL nodes = 69, remaining time = 87.5502 seconds. 
+After agent 12: Remaining agents = 26, colliding pairs = 13, LL nodes = 1722, remaining time = 86.56 seconds. 
+After agent 42: Remaining agents = 25, colliding pairs = 17, LL nodes = 2321, remaining time = 85.8133 seconds. 
+After agent 20: Remaining agents = 24, colliding pairs = 17, LL nodes = 53, remaining time = 85.813 seconds. 
+After agent 19: Remaining agents = 23, colliding pairs = 17, LL nodes = 76, remaining time = 85.8127 seconds. 
+After agent 16: Remaining agents = 22, colliding pairs = 18, LL nodes = 1635, remaining time = 85.4274 seconds. 
+After agent 37: Remaining agents = 21, colliding pairs = 20, LL nodes = 3155, remaining time = 84.5482 seconds. 
+After agent 14: Remaining agents = 20, colliding pairs = 21, LL nodes = 1915, remaining time = 83.8975 seconds. 
+After agent 27: Remaining agents = 19, colliding pairs = 21, LL nodes = 1, remaining time = 83.8975 seconds. 
+After agent 33: Remaining agents = 18, colliding pairs = 24, LL nodes = 2143, remaining time = 83.522 seconds. 
+After agent 49: Remaining agents = 17, colliding pairs = 24, LL nodes = 1, remaining time = 83.5219 seconds. 
+After agent 35: Remaining agents = 16, colliding pairs = 25, LL nodes = 1943, remaining time = 82.8355 seconds. 
+After agent 47: Remaining agents = 15, colliding pairs = 25, LL nodes = 1, remaining time = 82.7096 seconds. 
+After agent 36: Remaining agents = 14, colliding pairs = 25, LL nodes = 51, remaining time = 82.7093 seconds. 
+After agent 5: Remaining agents = 13, colliding pairs = 29, LL nodes = 2388, remaining time = 82.2104 seconds. 
+After agent 30: Remaining agents = 12, colliding pairs = 31, LL nodes = 38645, remaining time = 73.7875 seconds. 
+After agent 29: Remaining agents = 11, colliding pairs = 31, LL nodes = 5089, remaining time = 72.1695 seconds. 
+After agent 38: Remaining agents = 10, colliding pairs = 34, LL nodes = 3408, remaining time = 71.4842 seconds. 
+After agent 40: Remaining agents = 9, colliding pairs = 34, LL nodes = 1834, remaining time = 70.8658 seconds. 
+After agent 32: Remaining agents = 8, colliding pairs = 35, LL nodes = 2682, remaining time = 70.3349 seconds. 
+After agent 39: Remaining agents = 7, colliding pairs = 38, LL nodes = 2757, remaining time = 69.3951 seconds. 
+After agent 50: Remaining agents = 6, colliding pairs = 38, LL nodes = 1, remaining time = 69.395 seconds. 
+After agent 23: Remaining agents = 5, colliding pairs = 39, LL nodes = 2045, remaining time = 68.5806 seconds. 
+After agent 8: Remaining agents = 4, colliding pairs = 42, LL nodes = 1938, remaining time = 68.017 seconds. 
+After agent 41: Remaining agents = 3, colliding pairs = 44, LL nodes = 2083, remaining time = 67.0606 seconds. 
+After agent 43: Remaining agents = 2, colliding pairs = 45, LL nodes = 1827, remaining time = 66.5154 seconds. 
+After agent 1: Remaining agents = 1, colliding pairs = 46, LL nodes = 142012, remaining time = 38.9916 seconds. 
+After agent 6: Remaining agents = 0, colliding pairs = 49, LL nodes = 3247, remaining time = 38.1145 seconds. 
+Collision graph: (0,12),(1,35),(2,10),(2,35),(3,17),(3,42),(4,17),(4,41),(4,42),(5,14),(5,33),(5,44),(5,45),(6,7),(6,13),(6,23),(7,9),(7,15),(7,30),(8,10),(8,20),(8,34),(9,11),(9,15),(9,30),(9,37),(9,38),(9,39),(9,42),(10,34),(11,42),(13,23),(13,24),(14,34),(16,17),(16,37),(16,38),(16,39),(18,46),(21,22),(31,33),(32,33),(33,44),(33,45),(36,41),(37,38),(39,40),(43,44),(44,45),
+|V|=51, |E|=49
+Agent 0: 1576	1536	1496	1456	1416	1376	1336	1296	1256	1216	1215	1214	1174	1173	1172	1132	1092	1091	1090	1089	1049	1009	969	929	889	888	848	808	807	767	727	687	647	607	567	566	526	486	446	445	405	404	403	363	323	283	243	203	163	123	83	43	3	2	1	0	
+Agent 1: 1578	1578	1579	1580	1540	1500	1460	1420	1380	1340	1341	1301	1261	1221	1222	1182	1142	1102	1062	1022	1021	1020	980	940	900	860	820	780	740	741	701	702	662	622	582	542	541	501	461	421	381	380	340	300	260	220	180	140	100	60	20	
+Agent 2: 1580	1540	1500	1460	1420	1380	1340	1300	1260	1220	1180	1140	1100	1099	1059	1019	979	939	940	900	860	820	780	781	741	701	661	621	581	541	501	461	421	381	380	340	300	260	220	180	140	100	60	20	
+Agent 3: 1580	1580	1540	1500	1460	1420	1380	1340	1300	1260	1220	1180	1140	1100	1099	1059	1019	979	980	940	900	860	820	780	781	741	701	702	662	622	623	624	584	585	545	505	465	425	385	345	305	265	225	185	186	146	147	107	67	27	28	
+Agent 4: 1582	1583	1543	1544	1504	1464	1424	1384	1344	1304	1264	1224	1184	1144	1104	1064	1024	984	985	945	905	865	864	824	784	744	745	746	706	666	626	586	585	545	505	465	425	385	345	305	265	225	185	186	146	147	107	67	68	28	
+Agent 5: 1584	1584	1584	1583	1582	1542	1502	1462	1422	1382	1342	1302	1262	1222	1182	1142	1102	1062	1022	1021	1020	980	940	900	860	820	821	781	741	701	661	621	581	541	501	461	421	420	419	418	378	338	298	297	296	256	216	176	136	96	56	16	15	15	15	16	
+Agent 6: 1586	1546	1506	1466	1426	1386	1346	1306	1266	1265	1265	1264	1263	1262	1261	1221	1181	1141	1101	1101	1100	1099	1098	1097	1096	1095	1055	1015	1014	974	934	894	854	853	852	851	811	771	731	691	651	611	571	570	530	529	489	449	409	408	368	328	288	248	208	168	128	88	48	8	
+Agent 7: 1586	1546	1546	1545	1505	1504	1464	1463	1423	1422	1382	1342	1341	1340	1300	1260	1220	1180	1140	1100	1099	1098	1058	1057	1056	1055	1054	1014	974	934	894	854	814	774	734	694	654	614	574	534	494	454	453	413	373	333	293	253	252	212	172	132	92	52	12	
+Agent 8: 1588	1587	1587	1547	1507	1506	1505	1465	1425	1385	1345	1344	1304	1303	1302	1301	1300	1260	1220	1180	1140	1100	1099	1098	1097	1096	1056	1055	1054	1014	1013	1012	1011	1010	970	930	929	928	888	848	808	768	728	727	687	647	607	567	527	487	447	407	367	327	287	247	207	167	166	126	86	85	45	5	4	
+Agent 9: 1588	1589	1549	1550	1510	1470	1430	1431	1432	1433	1393	1394	1395	1396	1356	1316	1276	1236	1196	1156	1155	1154	1153	1113	1073	1074	1034	1035	1036	996	956	916	917	918	878	838	839	799	759	758	718	678	677	676	716	715	755	754	794	793	792	752	712	713	673	633	593	594	554	555	515	516	517	557	597	598	599	559	519	479	439	399	398	397	357	317	277	237	236	196	195	155	115	75	35	34	33	73	113	112	152	151	150	110	70	69	68	67	27	26	25	24	64	63	62	102	101	141	140	180	179	178	218	258	257	256	216	176	136	96	56	55	54	53	13	12	
+Agent 10: 1588	1587	1547	1546	1545	1544	1504	1503	1463	1423	1383	1343	1303	1263	1223	1222	1182	1142	1102	1062	1022	1021	1020	980	940	900	860	820	780	781	741	701	661	621	581	541	501	461	421	381	341	340	300	260	220	180	140	100	60	20	
+Agent 11: 1588	1589	1590	1591	1551	1552	1512	1472	1472	1432	1392	1352	1312	1272	1232	1192	1152	1112	1072	1032	992	952	912	872	832	792	752	712	672	632	592	552	512	472	432	392	352	312	272	232	192	152	112	72	32	
+Agent 12: 1590	1590	1550	1510	1470	1469	1429	1389	1349	1309	1269	1229	1189	1188	1148	1147	1146	1106	1066	1065	1064	1024	1023	1022	1021	1020	980	940	900	860	859	819	818	817	777	737	736	735	734	733	732	731	691	651	650	649	648	647	607	567	527	487	447	407	406	405	365	325	324	284	244	204	203	163	123	122	121	81	41	1	0	
+Agent 13: 1590	1550	1510	1509	1469	1429	1389	1349	1309	1269	1229	1189	1188	1148	1147	1107	1067	1066	1065	1064	1024	1023	1022	1021	1020	980	940	900	860	859	819	818	817	777	737	697	696	656	616	576	575	574	534	533	532	531	530	529	489	449	409	369	329	289	288	248	208	168	128	88	48	8	
+Agent 14: 1590	1591	1551	1511	1471	1431	1391	1390	1350	1310	1270	1269	1229	1189	1189	1188	1148	1108	1107	1106	1066	1065	1064	1063	1062	1022	1021	1020	980	940	900	860	859	819	818	817	777	737	697	657	656	616	576	536	496	456	455	415	375	335	295	255	256	216	176	136	96	56	16	
+Agent 15: 1594	1593	1592	1552	1512	1472	1432	1392	1352	1312	1272	1232	1192	1152	1112	1111	1110	1109	1069	1029	989	949	909	908	907	906	905	904	903	902	901	900	860	820	819	818	817	816	815	814	774	734	694	654	614	574	534	494	454	453	413	373	333	293	253	213	212	172	132	92	52	12	
+Agent 16: 1594	1594	1554	1514	1474	1473	1433	1393	1353	1313	1273	1233	1193	1153	1113	1073	1033	993	953	913	873	833	793	753	713	673	633	593	553	513	473	433	393	353	313	273	233	193	153	113	73	72	32	31	30	30	29	28	27	26	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	66	26	25	24	
+Agent 17: 1594	1594	1593	1592	1552	1512	1472	1432	1392	1352	1312	1272	1232	1192	1152	1112	1072	1032	992	952	912	872	832	792	752	712	672	632	592	552	512	472	432	392	352	312	272	232	192	191	190	150	110	109	69	29	28	
+Agent 18: 1594	1554	1514	1474	1434	1435	1395	1355	1356	1316	1276	1236	1196	1156	1116	1076	1036	996	956	916	876	836	796	756	716	676	636	596	556	516	476	436	396	356	316	276	236	196	156	116	76	36	
+Agent 19: 1598	1597	1557	1556	1516	1515	1514	1474	1473	1472	1471	1470	1430	1390	1350	1310	1309	1269	1229	1189	1188	1148	1108	1068	1067	1066	1065	1064	1024	1023	1022	1021	1020	980	940	900	860	859	819	818	817	816	815	814	774	734	694	654	653	652	612	572	571	570	530	529	528	527	487	447	407	406	366	365	325	324	323	283	243	203	163	123	83	82	42	2	
+Agent 20: 1576	1576	1536	1496	1456	1416	1376	1336	1296	1256	1216	1176	1136	1096	1056	1055	1015	975	974	934	894	854	853	852	851	811	810	809	769	768	767	727	687	647	607	567	527	487	447	407	367	327	287	247	207	167	166	126	86	85	45	5	4	
+Agent 21: 1572	1573	1533	1493	1453	1413	1373	1333	1293	1253	1213	1173	1133	1093	1092	1052	1051	1011	971	931	891	851	811	771	731	691	651	611	610	570	569	529	489	449	448	408	368	328	288	248	208	168	128	88	48	8	7	6	
+Agent 22: 1572	1532	1492	1452	1412	1372	1332	1292	1252	1252	1253	1213	1173	1172	1132	1092	1091	1051	1011	971	931	891	851	811	771	731	691	651	611	610	609	569	529	489	449	448	408	368	328	288	248	208	168	128	88	48	8	7	6	
+Agent 23: 1580	1579	1539	1540	1500	1460	1420	1380	1340	1300	1260	1220	1180	1140	1100	1099	1098	1097	1096	1056	1055	1015	975	974	934	894	854	853	852	851	811	771	731	691	651	611	610	570	530	529	489	449	409	369	368	328	288	248	208	168	128	88	48	8	
+Agent 24: 1564	1565	1566	1526	1527	1528	1488	1448	1408	1368	1328	1288	1248	1208	1168	1128	1129	1089	1049	1009	969	929	928	888	848	808	807	767	727	687	647	607	567	527	487	447	448	408	368	328	288	248	208	168	128	88	48	8	
+Agent 25: 
+Agent 26: 
+Agent 27: 
+Agent 28: 
+Agent 29: 
+Agent 30: 1596	1556	1516	1476	1436	1396	1356	1316	1315	1275	1235	1195	1194	1154	1114	1074	1034	1033	993	953	913	873	872	832	831	830	790	789	788	748	747	746	706	666	626	625	624	623	622	621	581	580	579	539	499	498	497	496	456	416	415	375	335	295	294	254	253	213	212	172	132	92	52	12	
+Agent 31: 1564	1524	1525	1485	1486	1487	1447	1407	1367	1327	1287	1247	1247	1248	1208	1168	1169	1129	1130	1090	1091	1051	1011	971	931	891	851	811	771	731	691	651	611	571	531	491	451	411	371	331	291	292	252	253	213	173	133	93	53	54	14	
+Agent 32: 1568	1569	1529	1489	1449	1448	1408	1368	1328	1329	1289	1249	1250	1251	1291	1292	1293	1253	1254	1214	1174	1134	1094	1054	1014	974	934	894	854	814	774	734	694	654	614	574	534	494	454	453	413	373	333	293	253	213	173	133	93	53	54	14	
+Agent 33: 1584	1584	1583	1582	1542	1502	1462	1422	1382	1381	1380	1340	1300	1260	1220	1180	1140	1100	1099	1059	1058	1057	1056	1055	1015	975	935	934	894	854	814	774	734	694	654	614	574	534	494	454	453	413	373	333	293	253	213	173	133	93	53	13	14	
+Agent 34: 1588	1587	1586	1585	1584	1583	1582	1542	1502	1462	1422	1382	1342	1302	1262	1262	1222	1182	1142	1102	1062	1022	1021	1020	980	940	900	860	820	780	740	741	701	661	621	581	580	579	539	499	459	419	418	378	338	298	297	257	256	216	176	136	96	56	16	
+Agent 35: 1592	1552	1512	1472	1432	1392	1352	1312	1272	1232	1192	1152	1112	1072	1032	992	952	912	872	832	792	752	712	672	632	592	591	590	589	549	509	469	429	389	349	348	308	268	228	188	148	147	146	145	144	143	142	102	101	100	60	20	
+Agent 36: 1592	1592	1552	1512	1472	1432	1392	1352	1312	1272	1232	1192	1152	1112	1072	1032	992	991	951	911	871	870	830	790	789	788	787	747	746	706	666	626	625	624	584	544	504	464	463	423	383	343	303	263	223	183	182	142	102	62	22	
+Agent 37: 1564	1564	1565	1525	1485	1445	1405	1365	1325	1326	1327	1287	1288	1289	1249	1250	1251	1252	1253	1254	1214	1174	1134	1094	1054	1014	974	975	935	895	855	815	775	735	736	696	656	657	658	659	619	579	539	499	459	419	420	380	340	300	260	261	221	181	182	142	102	62	63	64	24	
+Agent 38: 1564	1564	1524	1484	1444	1404	1364	1324	1284	1244	1245	1246	1246	1247	1248	1208	1168	1169	1129	1130	1090	1091	1051	1052	1053	1013	1014	974	934	894	854	814	774	734	694	654	614	574	534	535	536	496	456	457	417	418	378	338	339	340	300	260	261	221	181	141	142	102	62	63	64	24	
+Agent 39: 1596	1595	1594	1554	1514	1513	1473	1433	1393	1353	1313	1273	1233	1193	1153	1113	1073	1073	1033	993	953	913	873	833	793	753	713	673	633	593	553	513	473	433	393	353	313	273	233	193	153	113	73	73	72	71	71	70	69	68	67	27	26	
+Agent 40: 1572	1571	1531	1491	1451	1452	1453	1413	1373	1333	1293	1294	1254	1214	1174	1134	1094	1054	1055	1015	975	935	895	855	856	816	817	818	819	820	821	781	741	701	661	662	622	582	542	502	503	463	464	465	425	385	345	305	265	266	226	186	146	106	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	107	67	27	27	26	
+Agent 41: 1592	1592	1591	1551	1511	1471	1431	1391	1351	1311	1271	1231	1231	1232	1192	1152	1112	1072	1032	992	952	912	913	873	833	793	753	713	673	633	593	553	513	473	433	393	353	313	273	233	193	153	113	112	112	111	110	109	109	69	29	28	
+Agent 42: 1588	1589	1589	1590	1550	1510	1511	1471	1431	1391	1351	1311	1271	1231	1231	1232	1192	1152	1112	1072	1032	992	952	912	872	832	792	752	712	672	632	592	552	512	472	432	392	352	312	272	232	192	152	151	111	110	70	30	29	28	
+Agent 43: 1596	1596	1595	1555	1554	1514	1474	1434	1394	1354	1314	1274	1234	1194	1154	1114	1074	1034	994	954	914	874	834	794	754	714	674	634	594	554	514	474	434	394	354	314	274	234	194	154	154	154	153	152	151	150	150	110	70	30	
+Agent 44: 1584	1584	1544	1504	1464	1424	1384	1344	1304	1264	1224	1184	1144	1104	1064	1024	984	985	945	905	865	864	824	784	744	745	746	706	707	708	668	628	629	589	549	509	469	429	389	390	350	310	270	269	229	189	190	150	110	70	30	
+Agent 45: 1584	1584	1584	1584	1544	1584	1544	1504	1505	1506	1466	1467	1427	1387	1386	1346	1306	1266	1265	1264	1263	1223	1222	1221	1181	1180	1140	1100	1101	1102	1103	1104	1144	1184	1185	1186	1146	1147	1148	1108	1068	1069	1070	1030	990	950	951	952	992	993	994	1034	1035	1036	996	956	916	876	877	837	797	757	758	718	719	679	639	599	598	597	557	517	516	515	475	435	434	394	354	314	274	234	194	154	114	74	34	
+Agent 46: 1584	1544	1545	1505	1465	1425	1426	1386	1346	1306	1266	1226	1186	1187	1188	1148	1108	1068	1068	1069	1029	989	990	991	951	911	871	831	791	792	752	712	713	714	674	675	635	595	596	556	516	476	436	396	356	316	276	236	196	156	116	76	36	
+Agent 47: 
+Agent 48: 1580	1581	1582	1542	1502	1462	1422	1423	1424	1425	1385	1345	1346	1306	1266	1226	1186	1187	1147	1107	1067	1068	1069	1070	1030	990	950	951	952	953	954	955	956	916	917	877	837	797	757	717	677	637	638	598	558	518	478	438	398	358	318	278	238	198	158	118	78	38	
+Agent 49: 
+Agent 50: 
+Iteration 1, group size = 50, colliding pairs = 49, solution cost = 2489, remaining time = 38.1144
+destroy weights = 0.333333,0.333333,0.333333,Generate 8 neighbors randomly
+Neighbors: 3, 4, 9, 18, 30, 31, 37, 39, 
+Old colliding pairs (20): (3,17), (3,42), (4,17), (4,41), (4,42), (7,9), (7,30), (9,11), (9,15), (9,30), (9,37), (9,38), (9,39), (9,42), (16,37), (16,39), (18,46), (31,33), (37,38), (39,40), 
+Neighbors_set: 9, 3, 31, 4, 37, 39, 18, 30, 
+After agent 9: Remaining agents = 7, colliding pairs = 3, LL nodes = 464, remaining time = 37.6394 seconds. 
+After agent 3: Remaining agents = 6, colliding pairs = 3, LL nodes = 98, remaining time = 37.6388 seconds. 
+After agent 31: Remaining agents = 5, colliding pairs = 3, LL nodes = 269, remaining time = 37.6379 seconds. 
+After agent 4: Remaining agents = 4, colliding pairs = 5, LL nodes = 3259, remaining time = 36.4252 seconds. 
+After agent 37: Remaining agents = 3, colliding pairs = 6, LL nodes = 1718, remaining time = 36.1321 seconds. 
+After agent 39: Remaining agents = 2, colliding pairs = 6, LL nodes = 1626, remaining time = 35.8753 seconds. 
+After agent 18: Remaining agents = 1, colliding pairs = 6, LL nodes = 549, remaining time = 35.4729 seconds. 
+After agent 30: Remaining agents = 0, colliding pairs = 7, LL nodes = 1593, remaining time = 35.1282 seconds. 
+New colliding pairs = 7
+Collision graph: (0,12),(1,35),(2,10),(2,35),(3,4),(4,41),(5,14),(5,33),(5,44),(5,45),(6,7),(6,13),(6,23),(7,15),(8,9),(8,10),(8,20),(8,34),(9,10),(9,30),(9,34),(10,34),(11,42),(13,23),(13,24),(14,34),(16,17),(16,38),(21,22),(32,33),(33,44),(33,45),(36,41),(37,38),(43,44),(44,45),
+|V|=51, |E|=36
+Iteration 1, group size = 8, colliding pairs = 36, solution cost = 2538, remaining time = 35.1279
+destroy weights = 0.277778,0.277778,0.444444,Generate 8 neighbors randomly
+Neighbors: 2, 5, 10, 12, 20, 22, 38, 39, 
+Old colliding pairs (14): (0,12), (2,10), (2,35), (5,14), (5,33), (5,44), (5,45), (8,10), (8,20), (9,10), (10,34), (16,38), (21,22), (37,38), 
+Neighbors_set: 12, 22, 38, 5, 20, 2, 39, 10, 
+After agent 12: Remaining agents = 7, colliding pairs = 0, LL nodes = 92, remaining time = 35.1273 seconds. 
+After agent 22: Remaining agents = 6, colliding pairs = 0, LL nodes = 48, remaining time = 35.1269 seconds. 
+After agent 38: Remaining agents = 5, colliding pairs = 1, LL nodes = 1722, remaining time = 34.5528 seconds. 
+After agent 5: Remaining agents = 4, colliding pairs = 4, LL nodes = 595, remaining time = 34.5503 seconds. 
+After agent 20: Remaining agents = 3, colliding pairs = 4, LL nodes = 764, remaining time = 33.6765 seconds. 
+After agent 2: Remaining agents = 2, colliding pairs = 4, LL nodes = 436, remaining time = 33.6159 seconds. 
+After agent 39: Remaining agents = 1, colliding pairs = 4, LL nodes = 1594, remaining time = 33.2632 seconds. 
+After agent 10: Remaining agents = 0, colliding pairs = 8, LL nodes = 2064, remaining time = 32.2358 seconds. 
+New colliding pairs = 8
+Collision graph: (1,35),(2,10),(3,4),(4,41),(5,33),(5,44),(5,45),(6,7),(6,13),(6,23),(7,15),(8,9),(8,10),(8,34),(9,10),(9,30),(9,34),(10,34),(11,42),(13,23),(13,24),(14,34),(16,17),(32,33),(33,44),(33,45),(36,41),(37,38),(43,44),(44,45),
+|V|=51, |E|=30
+Iteration 2, group size = 8, colliding pairs = 30, solution cost = 2610, remaining time = 32.2353
+destroy weights = 0.26178,0.26178,0.47644,Generate 2 neighbors by collision graph
+Neighbors: 11, 42, 
+Old colliding pairs (1): (11,42), 
+Neighbors_set: 11, 42, 
+After agent 11: Remaining agents = 1, colliding pairs = 0, LL nodes = 56, remaining time = 32.2345 seconds. 
+After agent 42: Remaining agents = 0, colliding pairs = 1, LL nodes = 230, remaining time = 32.0141 seconds. 
+New colliding pairs = 1
+Iteration 3, group size = 2, colliding pairs = 30, solution cost = 2610, remaining time = 32.014
+destroy weights = 0.265252,0.251989,0.482759,Generate 8 neighbors by collision graph
+Neighbors: 6, 7, 10, 13, 15, 23, 24, 48, 
+Old colliding pairs (10): (2,10), (6,7), (6,13), (6,23), (7,15), (8,10), (9,10), (10,34), (13,23), (13,24), 
+Neighbors_set: 23, 6, 24, 10, 15, 13, 7, 48, 
+After agent 23: Remaining agents = 7, colliding pairs = 1, LL nodes = 53, remaining time = 32.0136 seconds. 
+After agent 6: Remaining agents = 6, colliding pairs = 2, LL nodes = 2181, remaining time = 31.4516 seconds. 
+After agent 24: Remaining agents = 5, colliding pairs = 3, LL nodes = 1996, remaining time = 30.8698 seconds. 
+After agent 10: Remaining agents = 4, colliding pairs = 6, LL nodes = 262, remaining time = 30.5279 seconds. 
+After agent 15: Remaining agents = 3, colliding pairs = 6, LL nodes = 624, remaining time = 30.1934 seconds. 
+After agent 13: Remaining agents = 2, colliding pairs = 7, LL nodes = 1940, remaining time = 29.7046 seconds. 
+After agent 7: Remaining agents = 1, colliding pairs = 10, LL nodes = 3530, remaining time = 28.6993 seconds. 
+New colliding pairs = 10
+Iteration 4, group size = 8, colliding pairs = 30, solution cost = 2610, remaining time = 28.6992
+destroy weights = 0.268637,0.242445,0.488919,Generate 8 neighbors randomly
+Neighbors: 3, 8, 13, 14, 18, 23, 33, 43, 
+Old colliding pairs (14): (3,4), (5,33), (6,13), (6,23), (8,9), (8,10), (8,34), (13,23), (13,24), (14,34), (32,33), (33,44), (33,45), (43,44), 
+Neighbors_set: 3, 33, 23, 18, 14, 43, 8, 13, 
+After agent 3: Remaining agents = 7, colliding pairs = 0, LL nodes = 88, remaining time = 28.6983 seconds. 
+After agent 33: Remaining agents = 6, colliding pairs = 3, LL nodes = 175, remaining time = 28.3658 seconds. 
+After agent 23: Remaining agents = 5, colliding pairs = 3, LL nodes = 613, remaining time = 28.3634 seconds. 
+After agent 18: Remaining agents = 4, colliding pairs = 3, LL nodes = 521, remaining time = 27.9885 seconds. 
+After agent 14: Remaining agents = 3, colliding pairs = 3, LL nodes = 463, remaining time = 27.9866 seconds. 
+After agent 43: Remaining agents = 2, colliding pairs = 3, LL nodes = 353, remaining time = 27.7169 seconds. 
+After agent 8: Remaining agents = 1, colliding pairs = 6, LL nodes = 302, remaining time = 27.7155 seconds. 
+After agent 13: Remaining agents = 0, colliding pairs = 9, LL nodes = 1881, remaining time = 27.1636 seconds. 
+New colliding pairs = 9
+Collision graph: (1,35),(2,10),(4,41),(5,33),(5,44),(5,45),(6,7),(7,15),(8,9),(8,10),(8,34),(9,10),(9,30),(9,34),(10,34),(11,13),(11,42),(12,13),(13,23),(16,17),(33,44),(33,45),(36,41),(37,38),(44,45),
+|V|=51, |E|=25
+Iteration 5, group size = 8, colliding pairs = 25, solution cost = 2628, remaining time = 27.1633
+destroy weights = 0.257632,0.232513,0.509854,Generate 8 neighbors randomly
+Neighbors: 8, 9, 26, 28, 33, 35, 44, 45, 
+Old colliding pairs (13): (1,35), (5,33), (5,44), (5,45), (8,9), (8,10), (8,34), (9,10), (9,30), (9,34), (33,44), (33,45), (44,45), 
+Neighbors_set: 35, 44, 9, 8, 28, 26, 33, 45, 
+After agent 35: Remaining agents = 7, colliding pairs = 0, LL nodes = 182, remaining time = 27.1624 seconds. 
+After agent 44: Remaining agents = 6, colliding pairs = 1, LL nodes = 196, remaining time = 26.7654 seconds. 
+After agent 9: Remaining agents = 5, colliding pairs = 3, LL nodes = 612, remaining time = 26.7632 seconds. 
+After agent 8: Remaining agents = 4, colliding pairs = 6, LL nodes = 296, remaining time = 26.7619 seconds. 
+After agent 28: Remaining agents = 3, colliding pairs = 6, LL nodes = 4752, remaining time = 25.3983 seconds. 
+After agent 26: Remaining agents = 2, colliding pairs = 6, LL nodes = 1, remaining time = 25.3978 seconds. 
+After agent 33: Remaining agents = 1, colliding pairs = 8, LL nodes = 175, remaining time = 25.0678 seconds. 
+After agent 45: Remaining agents = 0, colliding pairs = 11, LL nodes = 51, remaining time = 25.0674 seconds. 
+New colliding pairs = 11
+Collision graph: (2,10),(4,41),(5,33),(5,44),(5,45),(6,7),(7,15),(8,9),(8,10),(8,34),(9,10),(9,34),(10,34),(11,13),(11,42),(12,13),(13,23),(16,17),(33,44),(33,45),(36,41),(37,38),(44,45),
+|V|=51, |E|=23
+Iteration 6, group size = 8, colliding pairs = 23, solution cost = 2599, remaining time = 25.0673
+destroy weights = 0.257563,0.23245,0.509987,Generate 8 neighbors randomly
+Neighbors: 5, 11, 13, 16, 17, 20, 23, 49, 
+Old colliding pairs (8): (5,33), (5,44), (5,45), (11,13), (11,42), (12,13), (13,23), (16,17), 
+Neighbors_set: 11, 20, 17, 49, 13, 5, 16, 23, 
+After agent 11: Remaining agents = 7, colliding pairs = 1, LL nodes = 61, remaining time = 25.0669 seconds. 
+After agent 20: Remaining agents = 6, colliding pairs = 1, LL nodes = 833, remaining time = 24.8037 seconds. 
+After agent 17: Remaining agents = 5, colliding pairs = 1, LL nodes = 510, remaining time = 24.8018 seconds. 
+After agent 49: Remaining agents = 4, colliding pairs = 1, LL nodes = 1, remaining time = 24.4535 seconds. 
+After agent 13: Remaining agents = 3, colliding pairs = 1, LL nodes = 79, remaining time = 24.4531 seconds. 
+After agent 5: Remaining agents = 2, colliding pairs = 4, LL nodes = 727, remaining time = 24.4508 seconds. 
+After agent 16: Remaining agents = 1, colliding pairs = 5, LL nodes = 1555, remaining time = 23.8304 seconds. 
+After agent 23: Remaining agents = 0, colliding pairs = 6, LL nodes = 2350, remaining time = 23.1743 seconds. 
+New colliding pairs = 6
+Collision graph: (2,10),(4,41),(5,33),(5,44),(5,45),(6,7),(7,15),(8,9),(8,10),(8,34),(9,10),(9,34),(10,34),(11,42),(13,23),(16,17),(33,44),(33,45),(36,41),(37,38),(44,45),
+|V|=51, |E|=21
+Iteration 7, group size = 8, colliding pairs = 21, solution cost = 2613, remaining time = 23.1742
+destroy weights = 0.257497,0.232391,0.510113,Generate 6 neighbors by collision graph
+Neighbors: 7, 8, 9, 16, 37, 38, 
+Old colliding pairs (9): (6,7), (7,15), (8,9), (8,10), (8,34), (9,10), (9,34), (16,17), (37,38), 
+Neighbors_set: 7, 9, 16, 8, 38, 37, 
+After agent 7: Remaining agents = 5, colliding pairs = 0, LL nodes = 697, remaining time = 22.6711 seconds. 
+After agent 9: Remaining agents = 4, colliding pairs = 4, LL nodes = 2601, remaining time = 21.8313 seconds. 
+After agent 16: Remaining agents = 3, colliding pairs = 5, LL nodes = 68, remaining time = 21.8306 seconds. 
+After agent 8: Remaining agents = 2, colliding pairs = 8, LL nodes = 453, remaining time = 21.2449 seconds. 
+After agent 38: Remaining agents = 1, colliding pairs = 9, LL nodes = 1680, remaining time = 20.9508 seconds. 
+New colliding pairs = 9
+Iteration 8, group size = 6, colliding pairs = 21, solution cost = 2613, remaining time = 20.9507
+destroy weights = 0.260524,0.223367,0.51611,Generate 8 neighbors randomly
+Neighbors: 5, 9, 12, 30, 35, 41, 42, 45, 
+Old colliding pairs (11): (4,41), (5,33), (5,44), (5,45), (8,9), (9,10), (9,34), (11,42), (33,45), (36,41), (44,45), 
+Neighbors_set: 42, 12, 45, 35, 41, 5, 30, 9, 
+After agent 42: Remaining agents = 7, colliding pairs = 1, LL nodes = 439, remaining time = 20.6862 seconds. 
+After agent 12: Remaining agents = 6, colliding pairs = 1, LL nodes = 72, remaining time = 20.6857 seconds. 
+After agent 45: Remaining agents = 5, colliding pairs = 3, LL nodes = 52, remaining time = 20.6854 seconds. 
+After agent 35: Remaining agents = 4, colliding pairs = 3, LL nodes = 182, remaining time = 20.6846 seconds. 
+After agent 41: Remaining agents = 3, colliding pairs = 6, LL nodes = 3278, remaining time = 19.996 seconds. 
+After agent 5: Remaining agents = 2, colliding pairs = 9, LL nodes = 754, remaining time = 19.693 seconds. 
+After agent 30: Remaining agents = 1, colliding pairs = 9, LL nodes = 68, remaining time = 19.6925 seconds. 
+After agent 9: Remaining agents = 0, colliding pairs = 13, LL nodes = 1977, remaining time = 19.335 seconds. 
+New colliding pairs = 13
+Iteration 9, group size = 8, colliding pairs = 21, solution cost = 2613, remaining time = 19.3349
+destroy weights = 0.267425,0.229283,0.503292,Generate 8 neighbors by collision graph
+Neighbors: 4, 6, 7, 9, 12, 15, 39, 46, 
+Old colliding pairs (6): (4,41), (6,7), (7,15), (8,9), (9,10), (9,34), 
+Neighbors_set: 46, 7, 39, 12, 4, 9, 6, 15, 
+After agent 46: Remaining agents = 7, colliding pairs = 0, LL nodes = 360, remaining time = 18.8056 seconds. 
+After agent 7: Remaining agents = 6, colliding pairs = 0, LL nodes = 60, remaining time = 18.8052 seconds. 
+After agent 39: Remaining agents = 5, colliding pairs = 0, LL nodes = 1466, remaining time = 18.4091 seconds. 
+After agent 12: Remaining agents = 4, colliding pairs = 0, LL nodes = 79, remaining time = 18.4084 seconds. 
+After agent 4: Remaining agents = 3, colliding pairs = 0, LL nodes = 78, remaining time = 18.408 seconds. 
+After agent 9: Remaining agents = 2, colliding pairs = 5, LL nodes = 2759, remaining time = 17.7181 seconds. 
+After agent 6: Remaining agents = 1, colliding pairs = 5, LL nodes = 772, remaining time = 17.715 seconds. 
+After agent 15: Remaining agents = 0, colliding pairs = 8, LL nodes = 3182, remaining time = 16.4205 seconds. 
+New colliding pairs = 8
+Iteration 10, group size = 8, colliding pairs = 21, solution cost = 2613, remaining time = 16.4204
+destroy weights = 0.270526,0.220345,0.509129,Generate 8 neighbors by collision graph
+Neighbors: 1, 2, 3, 8, 9, 10, 34, 40, 
+Old colliding pairs (7): (2,10), (8,9), (8,10), (8,34), (9,10), (9,34), (10,34), 
+Neighbors_set: 34, 40, 2, 9, 10, 8, 3, 1, 
+After agent 34: Remaining agents = 7, colliding pairs = 0, LL nodes = 588, remaining time = 16.4179 seconds. 
+After agent 40: Remaining agents = 6, colliding pairs = 0, LL nodes = 1844, remaining time = 15.7542 seconds. 
+After agent 2: Remaining agents = 5, colliding pairs = 0, LL nodes = 564, remaining time = 15.5476 seconds. 
+After agent 9: Remaining agents = 4, colliding pairs = 1, LL nodes = 658, remaining time = 15.1851 seconds. 
+After agent 10: Remaining agents = 3, colliding pairs = 4, LL nodes = 1785, remaining time = 14.7339 seconds. 
+After agent 8: Remaining agents = 2, colliding pairs = 7, LL nodes = 441, remaining time = 14.531 seconds. 
+New colliding pairs = 7
+Iteration 11, group size = 8, colliding pairs = 21, solution cost = 2613, remaining time = 14.5309
+destroy weights = 0.27354,0.21166,0.5148,Generate 8 neighbors randomly
+Neighbors: 5, 7, 9, 10, 15, 16, 34, 45, 
+Old colliding pairs (15): (2,10), (5,33), (5,44), (5,45), (6,7), (7,15), (8,9), (8,10), (8,34), (9,10), (9,34), (10,34), (16,17), (33,45), (44,45), 
+Neighbors_set: 45, 10, 15, 16, 7, 5, 34, 9, 
+After agent 45: Remaining agents = 7, colliding pairs = 0, LL nodes = 60, remaining time = 14.5303 seconds. 
+After agent 10: Remaining agents = 6, colliding pairs = 1, LL nodes = 214, remaining time = 14.2973 seconds. 
+After agent 15: Remaining agents = 5, colliding pairs = 1, LL nodes = 546, remaining time = 14.2952 seconds. 
+After agent 16: Remaining agents = 4, colliding pairs = 2, LL nodes = 1561, remaining time = 13.6882 seconds. 
+After agent 7: Remaining agents = 3, colliding pairs = 4, LL nodes = 3785, remaining time = 12.7883 seconds. 
+After agent 5: Remaining agents = 2, colliding pairs = 6, LL nodes = 552, remaining time = 12.4416 seconds. 
+After agent 34: Remaining agents = 1, colliding pairs = 9, LL nodes = 2108, remaining time = 12.0995 seconds. 
+After agent 9: Remaining agents = 0, colliding pairs = 15, LL nodes = 3816, remaining time = 10.9997 seconds. 
+New colliding pairs = 15
+Iteration 12, group size = 8, colliding pairs = 21, solution cost = 2613, remaining time = 10.9996
+destroy weights = 0.280767,0.217252,0.501981,     Selected a : 7
+     Select A_start: (0,6), (2,34), (3,8), 
+     Select A_target: 
+Generate 7 neighbors by target
+Neighbors: 6, 7, 8, 24, 34, 49, 50, 
+Old colliding pairs (7): (6,7), (7,15), (8,9), (8,10), (8,34), (9,34), (10,34), 
+Neighbors_set: 7, 50, 8, 49, 6, 24, 34, 
+After agent 7: Remaining agents = 6, colliding pairs = 0, LL nodes = 61, remaining time = 10.9979 seconds. 
+After agent 50: Remaining agents = 5, colliding pairs = 0, LL nodes = 1, remaining time = 10.9978 seconds. 
+After agent 8: Remaining agents = 4, colliding pairs = 2, LL nodes = 318, remaining time = 10.7982 seconds. 
+After agent 49: Remaining agents = 3, colliding pairs = 2, LL nodes = 1, remaining time = 10.798 seconds. 
+After agent 6: Remaining agents = 2, colliding pairs = 2, LL nodes = 786, remaining time = 10.5402 seconds. 
+After agent 24: Remaining agents = 1, colliding pairs = 4, LL nodes = 3082, remaining time = 9.81235 seconds. 
+After agent 34: Remaining agents = 0, colliding pairs = 7, LL nodes = 418, remaining time = 9.81046 seconds. 
+New colliding pairs = 7
+Iteration 13, group size = 7, colliding pairs = 21, solution cost = 2613, remaining time = 9.8104
+destroy weights = 0.270526,0.220345,0.509129,Generate 8 neighbors randomly
+Neighbors: 4, 7, 11, 22, 26, 33, 34, 45, 
+Old colliding pairs (12): (4,41), (5,33), (5,45), (6,7), (7,15), (8,34), (9,34), (10,34), (11,42), (33,44), (33,45), (44,45), 
+Neighbors_set: 45, 4, 11, 26, 7, 34, 22, 33, 
+After agent 45: Remaining agents = 7, colliding pairs = 0, LL nodes = 58, remaining time = 9.80989 seconds. 
+After agent 4: Remaining agents = 6, colliding pairs = 0, LL nodes = 96, remaining time = 9.45816 seconds. 
+After agent 11: Remaining agents = 5, colliding pairs = 1, LL nodes = 52, remaining time = 9.45779 seconds. 
+After agent 26: Remaining agents = 4, colliding pairs = 1, LL nodes = 1, remaining time = 9.45773 seconds. 
+After agent 7: Remaining agents = 3, colliding pairs = 1, LL nodes = 820, remaining time = 9.2712 seconds. 
+After agent 34: Remaining agents = 2, colliding pairs = 4, LL nodes = 440, remaining time = 8.64531 seconds. 
+After agent 22: Remaining agents = 1, colliding pairs = 4, LL nodes = 48, remaining time = 8.64486 seconds. 
+After agent 33: Remaining agents = 0, colliding pairs = 4, LL nodes = 103, remaining time = 8.64429 seconds. 
+New colliding pairs = 4
+Collision graph: (2,10),(5,44),(8,9),(8,10),(8,34),(9,10),(9,34),(10,34),(11,42),(13,23),(16,17),(36,41),(37,38),
+|V|=51, |E|=13
+Iteration 14, group size = 8, colliding pairs = 13, solution cost = 2635, remaining time = 8.64424
+destroy weights = 0.248543,0.20244,0.549018,Generate 8 neighbors randomly
+Neighbors: 0, 8, 10, 21, 33, 34, 43, 48, 
+Old colliding pairs (7): (2,10), (8,9), (8,10), (8,34), (9,10), (9,34), (10,34), 
+Neighbors_set: 33, 48, 43, 0, 10, 21, 8, 34, 
+After agent 33: Remaining agents = 7, colliding pairs = 0, LL nodes = 240, remaining time = 8.64303 seconds. 
+After agent 48: Remaining agents = 6, colliding pairs = 0, LL nodes = 58, remaining time = 8.64267 seconds. 
+After agent 43: Remaining agents = 5, colliding pairs = 0, LL nodes = 427, remaining time = 8.24907 seconds. 
+After agent 0: Remaining agents = 4, colliding pairs = 0, LL nodes = 982, remaining time = 7.9094 seconds. 
+After agent 10: Remaining agents = 3, colliding pairs = 1, LL nodes = 330, remaining time = 7.90795 seconds. 
+After agent 21: Remaining agents = 2, colliding pairs = 1, LL nodes = 80, remaining time = 7.90743 seconds. 
+After agent 8: Remaining agents = 1, colliding pairs = 3, LL nodes = 433, remaining time = 7.9058 seconds. 
+After agent 34: Remaining agents = 0, colliding pairs = 6, LL nodes = 411, remaining time = 7.50415 seconds. 
+New colliding pairs = 6
+Collision graph: (5,44),(8,9),(8,10),(8,34),(9,10),(9,34),(10,34),(11,42),(13,23),(16,17),(36,41),(37,38),
+|V|=51, |E|=12
+Iteration 15, group size = 8, colliding pairs = 12, solution cost = 2659, remaining time = 7.50409
+destroy weights = 0.252166,0.205391,0.542443,Generate 8 neighbors randomly
+Neighbors: 5, 8, 14, 17, 19, 34, 38, 42, 
+Old colliding pairs (9): (5,44), (8,9), (8,10), (8,34), (9,34), (10,34), (11,42), (16,17), (37,38), 
+Neighbors_set: 19, 14, 17, 5, 42, 8, 34, 38, 
+After agent 19: Remaining agents = 7, colliding pairs = 0, LL nodes = 86, remaining time = 7.50354 seconds. 
+After agent 14: Remaining agents = 6, colliding pairs = 0, LL nodes = 56, remaining time = 7.50326 seconds. 
+After agent 17: Remaining agents = 5, colliding pairs = 1, LL nodes = 645, remaining time = 7.11117 seconds. 
+After agent 5: Remaining agents = 4, colliding pairs = 3, LL nodes = 2096, remaining time = 6.4551 seconds. 
+After agent 42: Remaining agents = 3, colliding pairs = 6, LL nodes = 2721, remaining time = 5.81912 seconds. 
+After agent 8: Remaining agents = 2, colliding pairs = 8, LL nodes = 459, remaining time = 5.46998 seconds. 
+After agent 34: Remaining agents = 1, colliding pairs = 12, LL nodes = 1711, remaining time = 5.11689 seconds. 
+New colliding pairs = 12
+Iteration 16, group size = 8, colliding pairs = 12, solution cost = 2659, remaining time = 5.11679
+destroy weights = 0.259196,0.211117,0.529687,Generate 8 neighbors by collision graph
+Neighbors: 4, 11, 16, 37, 38, 42, 45, 46, 
+Old colliding pairs (3): (11,42), (16,17), (37,38), 
+Neighbors_set: 4, 37, 11, 16, 46, 42, 38, 45, 
+After agent 4: Remaining agents = 7, colliding pairs = 0, LL nodes = 112, remaining time = 5.11567 seconds. 
+After agent 37: Remaining agents = 6, colliding pairs = 0, LL nodes = 65, remaining time = 5.11536 seconds. 
+After agent 11: Remaining agents = 5, colliding pairs = 0, LL nodes = 53, remaining time = 5.11507 seconds. 
+After agent 16: Remaining agents = 4, colliding pairs = 2, LL nodes = 1832, remaining time = 4.83415 seconds. 
+After agent 46: Remaining agents = 3, colliding pairs = 2, LL nodes = 318, remaining time = 4.57641 seconds. 
+After agent 42: Remaining agents = 2, colliding pairs = 5, LL nodes = 2446, remaining time = 4.1425 seconds. 
+New colliding pairs = 5
+Iteration 17, group size = 8, colliding pairs = 12, solution cost = 2659, remaining time = 4.14238
+destroy weights = 0.261961,0.202701,0.535338,Generate 8 neighbors randomly
+Neighbors: 6, 8, 9, 12, 36, 39, 41, 44, 
+Old colliding pairs (7): (5,44), (8,9), (8,10), (8,34), (9,10), (9,34), (36,41), 
+Neighbors_set: 9, 8, 6, 39, 44, 12, 41, 36, 
+After agent 9: Remaining agents = 7, colliding pairs = 2, LL nodes = 902, remaining time = 3.68311 seconds. 
+After agent 8: Remaining agents = 6, colliding pairs = 5, LL nodes = 474, remaining time = 3.45299 seconds. 
+After agent 6: Remaining agents = 5, colliding pairs = 5, LL nodes = 782, remaining time = 3.27729 seconds. 
+After agent 39: Remaining agents = 4, colliding pairs = 5, LL nodes = 1580, remaining time = 3.06045 seconds. 
+After agent 44: Remaining agents = 3, colliding pairs = 6, LL nodes = 315, remaining time = 3.05888 seconds. 
+After agent 12: Remaining agents = 2, colliding pairs = 6, LL nodes = 318, remaining time = 2.83343 seconds. 
+After agent 41: Remaining agents = 1, colliding pairs = 6, LL nodes = 664, remaining time = 2.83085 seconds. 
+After agent 36: Remaining agents = 0, colliding pairs = 7, LL nodes = 134, remaining time = 2.82999 seconds. 
+New colliding pairs = 7
+Iteration 18, group size = 8, colliding pairs = 12, solution cost = 2659, remaining time = 2.82991
+destroy weights = 0.269166,0.208276,0.522558,     Selected a : 41
+     Select A_start: (0,35), (0,36), (1,36), (2,15), (4,30), 
+     Select A_target: 
+Generate 8 neighbors by target
+Neighbors: 15, 30, 35, 36, 41, 42, 44, 50, 
+Old colliding pairs (3): (5,44), (11,42), (36,41), 
+Neighbors_set: 44, 41, 36, 50, 30, 42, 35, 15, 
+After agent 44: Remaining agents = 7, colliding pairs = 1, LL nodes = 298, remaining time = 2.51754 seconds. 
+After agent 41: Remaining agents = 6, colliding pairs = 1, LL nodes = 48, remaining time = 2.51711 seconds. 
+After agent 36: Remaining agents = 5, colliding pairs = 1, LL nodes = 50, remaining time = 2.50142 seconds. 
+After agent 50: Remaining agents = 4, colliding pairs = 1, LL nodes = 1, remaining time = 2.50136 seconds. 
+After agent 30: Remaining agents = 3, colliding pairs = 1, LL nodes = 517, remaining time = 2.49953 seconds. 
+After agent 42: Remaining agents = 2, colliding pairs = 6, LL nodes = 3667, remaining time = 2.0868 seconds. 
+New colliding pairs = 6
+Iteration 19, group size = 8, colliding pairs = 12, solution cost = 2659, remaining time = 2.08673
+destroy weights = 0.259196,0.211117,0.529687,     Selected a : 5
+     Select A_start: (0,33), (0,44), (0,45), (0,46), (1,44), 
+     Select A_target: 
+Generate 6 neighbors by target
+Neighbors: 5, 33, 34, 44, 45, 46, 
+Old colliding pairs (4): (5,44), (8,34), (9,34), (10,34), 
+Neighbors_set: 46, 44, 5, 33, 45, 34, 
+After agent 46: Remaining agents = 5, colliding pairs = 0, LL nodes = 52, remaining time = 1.94507 seconds. 
+After agent 44: Remaining agents = 4, colliding pairs = 0, LL nodes = 373, remaining time = 1.94361 seconds. 
+After agent 5: Remaining agents = 3, colliding pairs = 1, LL nodes = 895, remaining time = 1.65493 seconds. 
+After agent 33: Remaining agents = 2, colliding pairs = 1, LL nodes = 247, remaining time = 1.46962 seconds. 
+After agent 45: Remaining agents = 1, colliding pairs = 1, LL nodes = 59, remaining time = 1.46902 seconds. 
+After agent 34: Remaining agents = 0, colliding pairs = 5, LL nodes = 1916, remaining time = 1.30926 seconds. 
+New colliding pairs = 5
+Iteration 20, group size = 6, colliding pairs = 12, solution cost = 2659, remaining time = 1.30919
+destroy weights = 0.249469,0.213889,0.536642,     Selected a : 9
+     Select A_start: (0,8), (0,10), (0,11), (0,34), (0,42), 
+     Select A_target: 
+Generate 8 neighbors by target
+Neighbors: 8, 9, 10, 11, 34, 42, 44, 49, 
+Old colliding pairs (8): (5,44), (8,9), (8,10), (8,34), (9,10), (9,34), (10,34), (11,42), 
+Neighbors_set: 49, 9, 11, 42, 44, 8, 10, 34, 
+After agent 49: Remaining agents = 7, colliding pairs = 0, LL nodes = 1, remaining time = 1.30786 seconds. 
+After agent 9: Remaining agents = 6, colliding pairs = 0, LL nodes = 271, remaining time = 1.30706 seconds. 
+After agent 11: Remaining agents = 5, colliding pairs = 0, LL nodes = 52, remaining time = 1.30658 seconds. 
+After agent 42: Remaining agents = 4, colliding pairs = 1, LL nodes = 488, remaining time = 1.10055 seconds. 
+After agent 44: Remaining agents = 3, colliding pairs = 2, LL nodes = 281, remaining time = 1.09932 seconds. 
+After agent 8: Remaining agents = 2, colliding pairs = 3, LL nodes = 602, remaining time = 0.940503 seconds. 
+After agent 10: Remaining agents = 1, colliding pairs = 5, LL nodes = 154, remaining time = 0.939786 seconds. 
+After agent 34: Remaining agents = 0, colliding pairs = 8, LL nodes = 359, remaining time = 0.938314 seconds. 
+New colliding pairs = 8
+Iteration 21, group size = 8, colliding pairs = 12, solution cost = 2659, remaining time = 0.938199
+destroy weights = 0.239989,0.21659,0.54342,Generate 8 neighbors randomly
+Neighbors: 1, 8, 17, 24, 33, 34, 45, 47, 
+Old colliding pairs (6): (8,9), (8,10), (8,34), (9,34), (10,34), (16,17), 
+Neighbors_set: 24, 45, 47, 1, 34, 33, 8, 17, 
+After agent 24: Remaining agents = 7, colliding pairs = 0, LL nodes = 807, remaining time = 0.780957 seconds. 
+After agent 45: Remaining agents = 6, colliding pairs = 0, LL nodes = 59, remaining time = 0.780591 seconds. 
+After agent 47: Remaining agents = 5, colliding pairs = 0, LL nodes = 1, remaining time = 0.780561 seconds. 
+After agent 1: Remaining agents = 4, colliding pairs = 0, LL nodes = 36145, remaining time = -1.61864 seconds. 
+New colliding pairs = 0
+Iteration 22, group size = 8, colliding pairs = 12, solution cost = 2659, remaining time = -1.62197
+	InitLNS(PP): runtime = 101.315, iterations = 23, colliding pairs = 12, initial colliding pairs = 49, solution cost = 2659, initial solution cost = 2489, failed iterations = 15
+Failed to find an initial solution in 101.622 seconds after  0 restarts

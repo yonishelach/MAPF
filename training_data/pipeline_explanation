@@ -1,0 +1,29 @@
+Step 1:
+    Creating batches with 60 requests without time from the database in our format.
+
+Step 2:
+    Using the files in directory initial_requests_without_time to create files with the same requests in the lns format.
+    The files are saved in directory: custom_lns_requests.
+
+Step 3:
+    Using the files in directory custom_lns_requests as inputs to the lns code and saving the output files.
+    The files are saved in directory: custom_lns_outputs.
+
+Step 4:
+    Using the files in directory custom_lns_outputs to create files with k=30 paths that form a solution in our format.
+    The files are saved in directory: training_paths_files.
+
+Step 5:
+    Using the files in directory training_paths_files to create files with the requests for each solution in our format.
+    The files are saved in directory: training_requests_files.
+
+summary pipeline:
+    initial_requests_without_time -> custom_lns_requests -> custom_lns_outputs ->
+    -> training_paths_files -> training_requests_files
+	
+    initial_requests_batches = create_initial_requests_batches()
+    # create_lns_requests_files()
+    # create_lns_output_files()
+    training_paths_batches = get_training_paths_batches()
+    # create_training_solutions_file()
+    create_training_requests_file()
