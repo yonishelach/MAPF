@@ -1,5 +1,5 @@
-Pre-processing time = 0.000179621 seconds.
-4(10->18446744073709551615), 3(10->18446744073709551615), 1(10->18446744073709551615), 2(15->18446744073709551615), 0(12->18446744073709551615), 
+Pre-processing time = 0.000216065 seconds.
+4(13->18446744073709551615), 3(13->18446744073709551615), 1(13->18446744073709551615), 2(11->18446744073709551615), 0(11->18446744073709551615), 
 Remaining agents = 5, remaining time = 100 seconds. 
 Agent 4
 Remaining agents = 4, remaining time = 99.9999 seconds. 
@@ -8,16 +8,16 @@ Remaining agents = 3, remaining time = 99.9999 seconds.
 Agent 1
 Remaining agents = 2, remaining time = 99.9998 seconds. 
 Agent 2
-After agent 0: Remaining agents = 1, colliding pairs = 0, LL nodes = 13, remaining time = 99.9997 seconds. 
-After agent 2: Remaining agents = 0, colliding pairs = 0, LL nodes = 16, remaining time = 99.9997 seconds. 
+After agent 2: Remaining agents = 1, colliding pairs = 0, LL nodes = 12, remaining time = 99.9998 seconds. 
+After agent 0: Remaining agents = 0, colliding pairs = 0, LL nodes = 12, remaining time = 99.9997 seconds. 
 Collision graph: 
 |V|=5, |E|=0
-Agent 0: 91	81	71	61	51	41	31	32	22	23	24	14	4	
-Agent 1: 90	80	81	71	61	51	41	31	21	11	1	
-Agent 2: 90	91	92	93	83	73	63	53	43	44	45	46	36	26	16	6	
-Agent 3: 96	86	76	66	56	46	36	26	16	17	7	
-Agent 4: 92	93	83	73	63	53	43	33	23	13	3	
-Iteration 1, group size = 2, colliding pairs = 0, solution cost = 57, remaining time = 99.9996
-	InitLNS(PP): runtime = 0.000162823, iterations = 1, colliding pairs = 0, initial colliding pairs = 0, solution cost = 57, initial solution cost = 57, failed iterations = 0
-Initial solution cost = 57, runtime = 0.000438897
-LNS(PP;PP): runtime = 0.000438897, iterations = 1, solution cost = 57, initial solution cost = 57, failed iterations = 1
+Agent 0: 92	91	81	71	61	51	41	31	21	11	1	0	
+Agent 1: 96	86	76	66	56	46	36	35	25	24	23	13	3	2	
+Agent 2: 92	82	72	62	62	63	53	43	44	34	24	14	4	
+Agent 3: 92	93	83	73	63	64	54	55	56	46	36	26	16	6	
+Agent 4: 94	95	96	97	87	77	78	68	58	48	38	28	18	8	
+Iteration 1, group size = 2, colliding pairs = 0, solution cost = 62, remaining time = 99.9997
+	InitLNS(PP): runtime = 0.000139512, iterations = 1, colliding pairs = 0, initial colliding pairs = 0, solution cost = 62, initial solution cost = 62, failed iterations = 0
+Initial solution cost = 62, runtime = 0.000426833
+LNS(PP;PP): runtime = 0.000426833, iterations = 1, solution cost = 62, initial solution cost = 62, failed iterations = 1

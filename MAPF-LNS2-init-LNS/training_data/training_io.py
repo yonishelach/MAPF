@@ -15,13 +15,13 @@ def get_entries(num):
 
 def create_requests_batches_without_time():
     routing_requests_batches = []
-    sources = get_entries(NUMBER_OF_SOURCES)
-    targets = get_entries(NUMBER_OF_TARGETS)
+    # sources = get_entries(NUMBER_OF_SOURCES)
+    # targets = get_entries(NUMBER_OF_TARGETS)
     for i in range(NUMBER_OF_TRAINING_BATCHES):
         batch = []
         for j in range(LNS_BATCH_SIZE):
-            batch.append([sources[random.randrange(NUMBER_OF_SOURCES)], WIDTH-1,
-                          targets[j], 0])
+            batch.append([ENTRIES[random.randrange(len(ENTRIES)-1)], WIDTH-1,
+                          ENTRIES[j], 0])
         routing_requests_batches.append(batch)
     return routing_requests_batches
 
@@ -118,16 +118,15 @@ def create_training_requests_file():
     requests_batches = get_training_requests_batches()
     with open('./training_requests.csv', 'w', newline='') as f:
         writer = csv.writer(f)
+        writer.writerow(["x_start", "y_start", "x_end", "y_end", "arrival_time"])
         for i in range(len(requests_batches)):
-            writer.writerow(['Batch_' + str(i)])
             writer.writerows([request[:-1].split(',') for request in requests_batches[i]])
         f.close()
 
 
 if __name__ == '__main__':
-    # requests_batches_without_time = create_requests_batches_without_time()
-    # print(requests_batches_without_time)
-    # create_lns_input_files(requests_batches_without_time)
-    # create_lns_output_files(requests_batches_without_time)
-    requests_batches_without_time = get_requests_batches_without_time()
+    requests_batches_without_time = create_requests_batches_without_time()
+    create_lns_input_files(requests_batches_without_time)
+    create_lns_output_files(requests_batches_without_time)
+    # requests_batches_without_time = get_requests_batches_without_time()
     create_training_requests_file()
